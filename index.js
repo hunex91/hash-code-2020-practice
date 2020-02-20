@@ -1,8 +1,8 @@
 const fs = require('fs')
 const _ = require('lodash')
 
-const INPUT_FILE_PATH = './input/a_example.in';
-const OUTPUT_FILE_PATH = './output/a_example.out';
+const INPUT_FILE_PATH = './input/e_also_big.in';
+const OUTPUT_FILE_PATH = './output/e_also_big.out';
 
 // Read the file to an array, every line will be an element of the array
 const file = read(INPUT_FILE_PATH)
